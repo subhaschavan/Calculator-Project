@@ -1,0 +1,15 @@
+.about-main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.headi {
+    font-size: 25px;
+    font-weight: 700;
+    display: grid;
+    place-items: center;
+}
+.about-main p {
+    width: 300px;
+    padding-left: 50px;
+}
